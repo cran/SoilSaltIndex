@@ -1,0 +1,15 @@
+0626fa5f6f5067f78308a5b6406b59db *DESCRIPTION
+15e326126cbc6236a78da22ecfc85059 *NAMESPACE
+e4849b9f65e594afb311b5da814a2e2b *R/Soil_Salinity_Indices.R
+76a46d74ed4a093c435df278df38774b *build/vignette.rds
+f3e53e5fe6478315d6be92c4caae605c *inst/doc/SoilSaltIndex.R
+532c244d177b89d1280c3285aecf1604 *inst/doc/SoilSaltIndex.Rmd
+01381bdcfdaa8e4ec1024a89e90a959f *inst/doc/SoilSaltIndex.html
+c2c4a21013d64a1be4cf12eb652b4a2d *inst/extdata/Blue.tif
+3314d4386043b14f0ed5854718e5c5c9 *inst/extdata/Green.tif
+1f91060812a58e582370d371fc503e07 *inst/extdata/NIR.tif
+5f0e3494475b222399472ff6daa5560b *inst/extdata/Red.tif
+38d890f4e5f5725fc34f2b52debbbd41 *inst/extdata/SWIR1.tif
+e7c85fc27b9015ba110ccf54b1aaa0ee *inst/extdata/SWIR2.tif
+d40396599f7b8419a703581aaf36ee30 *man/Soil_Salinity_Indices.Rd
+532c244d177b89d1280c3285aecf1604 *vignettes/SoilSaltIndex.Rmd
